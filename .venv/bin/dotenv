@@ -1,8 +1,0 @@
-#!/bin/sh
-'''exec' "/home/rahmaneira/Documents/PIJAK/Eksperimen_MSL_Muhammad Aditya Rahman/.venv/bin/python3" "$0" "$@"
-' '''
-import sys
-from dotenv.__main__ import cli
-if __name__ == '__main__':
-    sys.argv[0] = sys.argv[0].removesuffix('.exe')
-    sys.exit(cli())
