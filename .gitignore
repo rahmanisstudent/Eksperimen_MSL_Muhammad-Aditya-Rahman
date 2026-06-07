@@ -1,0 +1,6 @@
+.env
+.env.local
+.DS_Store
+requirements.txt
+setup_env.sh
+__pycache__
