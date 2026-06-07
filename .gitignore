@@ -1,4 +1,4 @@
-.env
+.venv
 .env.local
 .DS_Store
 requirements.txt
